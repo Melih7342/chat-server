@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Melih7342/chat-server"
+	"github.com/Melih7342/chat-server/structs"
 	"golang.org/x/net/websocket"
 	"net/http"
 )
