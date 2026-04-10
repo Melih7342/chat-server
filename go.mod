@@ -1,3 +1,5 @@
-module github.com/Melih7342/chat-server.git
+module chat-server
 
-go 1.25.0
+go 1.26
+
+require golang.org/x/net v0.52.0
