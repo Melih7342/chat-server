@@ -1,4 +1,4 @@
-module chat-server
+module github.com/Melih7342/chat-server
 
 go 1.26
 
